@@ -1,4 +1,4 @@
-# Project 7 - *Taske*
+# Project 7 - *Task*
 
 Submitted by: **Yadisa Belliard**
 
